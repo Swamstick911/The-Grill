@@ -1,15 +1,13 @@
 # The Grill (Real-Time Debate App)
 
-> *Can you handle the heat? Enter The Grill and roast your opponents.*
-
 **The Grill** is a real-time debate platform where users enter a "Kitchen" (chat room), pick a side, and roast each other while spectators vote on who is winning. Built for [Hack Club Flavortown](https://flavortown.hackclub.com).
 
-![Project Status](https://img.shields.io/badge/Status-Cooking...-orange?style=for-the-badge)
-![Tech Stack](https://img.shields.io/badge/Stack-Next.js_14_+_Supabase-blue?style=for-the-badge)
+![Project Status](https://img.shields.io/badge/Status-Building...-orange?style=for-the-badge)
+![Tech Stack](https://img.shields.io/badge/Stack-Next.js_16_+_Supabase-blue?style=for-the-badge)
 
 ## What's Cooking?
 
-Current Features (Day 2 Status):
+Current Features:
 - [x] **Supabase Connection:** Live database connection established.
 - [x] **Real-Time Messaging:** Messages persist instantly to the cloud.
 - [x] **Secure Architecture:** Built with Next.js 14 App Router & TypeScript.
@@ -18,7 +16,7 @@ Current Features (Day 2 Status):
 
 ## The Recipe (Tech Stack)
 
-*   **Frontend:** [Next.js 14](https://nextjs.org/) (React, App Router, TypeScript)
+*   **Frontend:** [Next.js 16](https://nextjs.org/) (React, App Router, TypeScript)
 *   **Backend & Database:** [Supabase](https://supabase.com/) (PostgreSQL)
 *   **Styling:** Tailwind CSS
 *   **Deployment:** Vercel (Planned)
@@ -59,4 +57,3 @@ This is a **Hack Club Flavortown** project!
 5.  Open a Pull Request.
 
 ---
-*Built with ❤️ and 🌶️ by [Your Name]*
